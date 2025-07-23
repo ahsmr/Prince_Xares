@@ -84,13 +84,22 @@ use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
 the Software, and to permit persons to whom the Software is furnished to do so,
 subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED...
 
-Attribution:
-This project includes original work by **ahsmr**. If used, reused, or modified (publicly), you must:
+---
+
+**Additional Condition:**
+
+If you use, reuse, or modify this software publicly (including distribution, publication, or public display), you **must**:
 
 - Credit the original author: `ahsmr`
 - Provide a link to the original repository: https://github.com/ahsmr/Prince_Xares
 
+---
+
 This project also makes use of the [JDA library](https://github.com/DV8FromTheWorld/JDA), licensed under the Apache License 2.0. Please ensure you comply with its terms as well.
+
