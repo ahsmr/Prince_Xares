@@ -68,7 +68,7 @@ Example output (visualized):
 
 
 ## To install the bot in your server:
-Click on [Install](https://discord.com/oauth2/authorize?client_id=1389683347420221714)
+Click on [Install](https://discord.com/oauth2/authorize?client_id=1389683347420221714) (**Currently bot is offline!**) 
 
 ### 📄 `LICENSE` (MIT with attribution clause)
 
