@@ -27,7 +27,7 @@
 |--------------|----------------------------------------------------------------------------------------------|
 | `view`       | View your vault as an image showing up to 10 coins with their levels and rarities.          |
 | `levelup`    | Level up a specific coin in your vault if you have enough Crystara.                         |
-| `adminview`  | (Admin only + Owner of the Vault) View detailed vault info of any user, including internal coin IDs.             |
+| `adminview`  | (Admin only + vault owner) View detailed vault info of any user, including internal coin IDs.             |
 | `remove`     | Remove a coin from your vault by specifying its Coin ID.                                    |
 | `clear`      | Clear your entire vault (can be restricted to admins or the vault owner).                   |
 ### Crystara_usage for upgrading each Coin:
