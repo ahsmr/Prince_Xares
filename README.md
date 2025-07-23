@@ -44,7 +44,7 @@
   2. **Role Shop** — Users can purchase roles using either **Crystara** or **coins**.
       - Visual Example :
         <img width="1099" height="816" alt="image" src="https://github.com/user-attachments/assets/962a1179-322e-440e-8e28-8a00c640a849" />
-<img width="1101" height="609" alt="image" src="https://github.com/user-attachments/assets/67f31e1e-04d0-439c-81ff-a6c79761c332" />
+        <img width="1101" height="609" alt="image" src="https://github.com/user-attachments/assets/67f31e1e-04d0-439c-81ff-a6c79761c332" />
 
 
 
