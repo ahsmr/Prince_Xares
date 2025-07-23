@@ -292,7 +292,7 @@ public class Main extends ListenerAdapter
                 // Format vault data to string, e.g. list coins and levels
                 switch (action) {
                 case "adminview":
-                	if (!targetUser.equals(event.getMember()) || !isWiseGod || !isAdmin) {
+                	if ((!isWiseGod || !isAdmin) && !targetUser.equals(event.getMember())) {
                 		event.reply("Authentication failed! Only Admin and the Owner of the Vault can see this Vault!").setEphemeral(true).queue();
                 		break;
          
