@@ -88,7 +88,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED...
 
 Attribution:
-This project includes original work by **ahsmr**. If used, reused, or modified (publicly or privately), you must:
+This project includes original work by **ahsmr**. If used, reused, or modified (publicly), you must:
 
 - Credit the original author: `ahsmr`
 - Provide a link to the original repository: https://github.com/ahsmr/Prince_Xares
