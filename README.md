@@ -73,7 +73,7 @@ Click on [Install](https://discord.com/oauth2/authorize?client_id=13896833474202
 ### 📄 `LICENSE` (MIT with attribution clause)
 
 ```txt
-MIT License
+MIT License (Modified with Attribution Requirement)
 
 Copyright (c) 2025 ahsmr
 
@@ -84,22 +84,23 @@ use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
 the Software, and to permit persons to whom the Software is furnished to do so,
 subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. **Attribution Requirement:** Any public use of the Software (including distribution, publication, or modification) must include:
+   - Credit to the original author: `ahsmr`
+   - A link to the original repository: https://github.com/ahsmr/Prince_Xares
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED...
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
-**Additional Condition:**
+This project also uses the [JDA library](https://github.com/DV8FromTheWorld/JDA), licensed under the Apache License 2.0. Please ensure you comply with its terms as well.
 
-If you use, reuse, or modify this software publicly (including distribution, publication, or public display), you **must**:
-
-- Credit the original author: `ahsmr`
-- Provide a link to the original repository: https://github.com/ahsmr/Prince_Xares
-
----
-
-This project also makes use of the [JDA library](https://github.com/DV8FromTheWorld/JDA), licensed under the Apache License 2.0. Please ensure you comply with its terms as well.
 
