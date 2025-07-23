@@ -87,7 +87,8 @@ subject to the following conditions:
 1. The above copyright notice and this permission notice shall be included in all
    copies or substantial portions of the Software.
 
-2. **Attribution Requirement:** Any public use of the Software (including distribution, publication, or modification) must include:
+2. **Attribution Requirement:**
+ Any public use of the Software (including distribution, publication, or modification) must include:
    - Credit to the original author: `ahsmr`
    - A link to the original repository: https://github.com/ahsmr/Prince_Xares
 
