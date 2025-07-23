@@ -20,7 +20,7 @@
 | `/stats`     | Shows member roles or membership duration |
 | `/vault`     | Manage/view your coin vault |
 | `/add`       | Admin-only coin injection |
-| `/crystara`  | Get Crystara (WIP/Secret) |
+| `/crystara`  | Get Crystara|
 
 
 | Subcommand   | Description                                                                                  |
