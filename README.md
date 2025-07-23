@@ -39,7 +39,7 @@
 - The bot includes a **shop system** where admins can select a channel for the shop.
 - The shop automatically creates **two messages**:
   1. **Pouch Shop** — Users can buy pouches using **Crystara** currency.
-    - Visual Example : <img width="1102" height="514" alt="image" src="https://github.com/user-attachments/assets/0ae4ea72-7779-4eae-97ab-49003996f1f9" />
+      - Visual Example : <img width="1102" height="514" alt="image" src="https://github.com/user-attachments/assets/0ae4ea72-7779-4eae-97ab-49003996f1f9" />
 
   2. **Role Shop** — Users can purchase roles using either **Crystara** or **coins**.
       - Visual Example :
